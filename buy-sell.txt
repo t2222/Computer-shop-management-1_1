@@ -1,0 +1,60 @@
+
+		Your cost is : 0 taka
+
+			Vat is : 0 taka
+
+
+		     Your total cost from this category
+
+       -------------------------------------------------------
+		Your total cost is : 0 taka
+
+		Your cost is : 123000 taka
+
+			Vat is : 0 taka
+
+
+		     Your total cost from this category
+
+       -------------------------------------------------------
+		Your total cost is : 123000 taka
+
+		Your cost is : 381000 taka
+
+			Vat is : 0 taka
+
+
+		     Your total cost from this category
+
+       -------------------------------------------------------
+		Your total cost is : 381000 taka
+
+		Your cost is : 839700 taka
+
+			Vat is : 0 taka
+
+
+		     Your total cost from this category
+
+       -------------------------------------------------------
+		Your total cost is : 839700 taka
+
+		Your cost is : 828400 taka
+
+			Vat is : 0 taka
+
+
+		     Your total cost from this category
+
+       -------------------------------------------------------
+		Your total cost is : 828400 taka
+
+		Your cost is : 365600 taka
+
+			Vat is : 0 taka
+
+
+		     Your total cost from this category
+
+       -------------------------------------------------------
+		Your total cost is : 365600 taka

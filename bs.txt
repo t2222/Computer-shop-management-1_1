@@ -1,0 +1,66 @@
+
+
+		Selected laptop : 1. Asus X540YA AMD E1-7010 (1.50 GHz, 4 GB, 500 GB)
+		Ordered quantity : 6 pcs
+		Total price : 130800 taka
+
+
+		Selected laptop : 2. Lenovo IP320 (2.40 GHz, 4 GB, 1 TB)
+		Ordered quantity : 5 pcs
+		Total price : 182500 taka
+
+
+		Selected laptop : 3. Acer Aspire ES1-533(2.5 GHz, 4 GB, 1 TB)
+		Ordered quantity : 7 pcs
+		Total price : 182000 taka
+
+		Total cost is :495300 taka . Press any key to go to main menu .
+
+		Selected laptop : 1. HP OMEN 15-AX221TX(3.8 GHz, 16 GB, 1 TB & 128 GB)
+		Ordered quantity : 2 pcs
+		Total price : 254000 taka
+
+
+		Selected laptop : 2. Acer Aspire ES1-533(2.5 GHz, 4 GB, 1 TB)
+		Ordered quantity : 2 pcs
+		Total price : 52000 taka
+
+
+		Selected laptop : 3. Acer Aspire V3-574G(2.40 GHz, 8 GB, 2 TB)
+		Ordered quantity : 9 pcs
+		Total price : 533700 taka
+
+		Total cost is :839700 taka . Press any key to go to main menu .
+
+		Selected laptop : 1. Asus X540YA AMD E1-7010 (1.50 GHz, 4 GB, 500 GB)
+		Ordered quantity : 8 pcs
+		Total price : 174400 taka
+
+
+		Selected laptop : 2. Lenovo IP320 (2.40 GHz, 4 GB, 1 TB)
+		Ordered quantity : 4 pcs
+		Total price : 146000 taka
+
+
+		Selected laptop : 3. HP OMEN 15-AX221TX(3.8 GHz, 16 GB, 1 TB & 128 GB)
+		Ordered quantity : 4 pcs
+		Total price : 508000 taka
+
+
+		Total cost is :828400 taka
+Press any key to go to main menu.
+		<<Writing to bs.txt FILE>>
+
+		Selected laptop : 1. Asus X540YA AMD E1-7010 (1.50 GHz, 4 GB, 500 GB)
+		Ordered quantity : 12 pcs
+		Total price : 261600 taka
+
+
+		Selected laptop : 2. Acer Aspire ES1-533(2.5 GHz, 4 GB, 1 TB)
+		Ordered quantity : 4 pcs
+		Total price : 104000 taka
+
+
+		Total cost is :365600 taka
+Press any key to go to main menu.
+		<<Writing to bs.txt FILE>>
